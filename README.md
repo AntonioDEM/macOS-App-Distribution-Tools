@@ -1,13 +1,11 @@
-```markdown
+
+
 # macOS App Distribution Tools
 
 <div align="center">
-
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-macOS-lightgray)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-</div>
 
 ## 📝 Descrizione
 Una raccolta di strumenti e guide per la distribuzione di applicazioni Python su macOS, includendo:
@@ -116,14 +114,3 @@ Distribuito sotto licenza MIT. Vedi `LICENSE` per maggiori informazioni.
 Antonio Demarcus - antonio.demarcus@example.com
 
 Project Link: [https://github.com/yourusername/macos-app-distribution-tools](https://github.com/yourusername/macos-app-distribution-tools)
-```
-
-Questo README:
-1. Fornisce una panoramica chiara del progetto
-2. Include badge e informazioni essenziali
-3. Spiega come installare e usare gli strumenti
-4. Include esempi di configurazione
-5. Spiega come contribuire
-6. Ha una struttura chiara e ben organizzata
-
-Vuoi che modifichi o aggiunga qualcosa?
