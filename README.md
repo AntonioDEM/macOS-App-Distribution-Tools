@@ -111,3 +111,4 @@ Distribuito sotto licenza MIT. Vedi `LICENSE` per maggiori informazioni.
 Antonio Demarcus - antonio.demarcus@example.com
 
 Project Link: [https://github.com/AntonioDEM/macOS-App-Distribution-Tools](https://github.com/AntonioDEM/macOS-App-Distribution-Tools)
+Project Link: [https://github.com/yourusername/macos-app-distribution-tools](https://github.com/yourusername/macos-app-distribution-tools)
