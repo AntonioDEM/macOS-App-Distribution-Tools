@@ -2,7 +2,6 @@
 
 # macOS App Distribution Tools
 
-<div align="center">
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-macOS-lightgray)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
