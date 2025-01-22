@@ -105,12 +105,13 @@ Per una guida dettagliata al processo di build e distribuzione, consulta:
 5. Apri una Pull Request
 
 ## 📄 Licenza
-Distribuito sotto licenza MIT. Vedi `LICENSE` per maggiori informazioni.
+Distribuito sotto licenza MIT. 
+Vedi `LICENSE` per maggiori informazioni.
 
 ## 👥 Autori
 - Antonio Demarcus ([@AntonioDEM](https://github.com/AntonioDEM))
 
 ## 📧 Contatti
-Antonio Demarcus - antonio.demarcus@example.com
+Antonio Demarcus - iperstatica#gmail.com
 
-Project Link: [https://github.com/yourusername/macos-app-distribution-tools](https://github.com/yourusername/macos-app-distribution-tools)
+Project Link: [https://github.com/yourusername/macos-app-distribution-tools](https://github.com/AntonioDEM/macOS-App-Distribution-Tools/edit/main/README.md)
