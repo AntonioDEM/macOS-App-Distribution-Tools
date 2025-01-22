@@ -1,8 +1,5 @@
-
-
 # macOS App Distribution Tools
 
-<div align="center">
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-macOS-lightgray)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -105,13 +102,12 @@ Per una guida dettagliata al processo di build e distribuzione, consulta:
 5. Apri una Pull Request
 
 ## 📄 Licenza
-Distribuito sotto licenza MIT. 
-Vedi `LICENSE` per maggiori informazioni.
+Distribuito sotto licenza MIT. Vedi `LICENSE` per maggiori informazioni.
 
 ## 👥 Autori
 - Antonio Demarcus ([@AntonioDEM](https://github.com/AntonioDEM))
 
 ## 📧 Contatti
-Antonio Demarcus - iperstatica#gmail.com
+Antonio Demarcus - antonio.demarcus@example.com
 
-Project Link: [https://github.com/yourusername/macos-app-distribution-tools](https://github.com/AntonioDEM/macOS-App-Distribution-Tools/edit/main/README.md)
+Project Link: [https://github.com/AntonioDEM/macOS-App-Distribution-Tools](https://github.com/AntonioDEM/macOS-App-Distribution-Tools)
