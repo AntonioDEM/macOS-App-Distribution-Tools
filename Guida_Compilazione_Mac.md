@@ -202,8 +202,16 @@ a = Analysis(
     pathex=[],
     binaries=[],
     datas=[
-        ('LaTeX-Glossary-Editor/abt/*', 'abt'),
-        ('LaTeX-Glossary-Editor/src/*', 'src'),
+        ('LaTeX-Glossary-Editor/abt/__init__.py', 'abt'),
+        ('LaTeX-Glossary-Editor/abt/about_window.py', 'abt'),
+        ('LaTeX-Glossary-Editor/abt/info.py', 'abt'),
+        ('LaTeX-Glossary-Editor/src/__init__.py', 'src'),
+        ('LaTeX-Glossary-Editor/src/db_manager.py', 'src'),
+        ('LaTeX-Glossary-Editor/src/glossary_db.py', 'src'),
+        ('LaTeX-Glossary-Editor/src/glossary_os_handler.py', 'src'),
+        ('LaTeX-Glossary-Editor/src/latex_parser.py', 'src'),
+        ('LaTeX-Glossary-Editor/src/options_write.py', 'src'),
+        ('LaTeX-Glossary-Editor/src/project_manager.py', 'src'),
     ],
     hiddenimports=[
         'tkinter',
